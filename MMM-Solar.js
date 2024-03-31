@@ -1,10 +1,10 @@
 /*
 * Magic Mirror module for displaying Enphase Solar data
-* By Thomas Krywitsky
+* By Thomas Krywitsky and Sam Waugh
 * MIT Licensed
 */
 
-Module.register("MMM-Solar",{
+Module.register("MMM-Solar.v4",{
     // Default module config.
     defaults: {
         url: "https://api.enphaseenergy.com/api/v4/systems/",
