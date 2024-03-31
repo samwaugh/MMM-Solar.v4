@@ -7,7 +7,7 @@
 Module.register("MMM-Solar",{
     // Default module config.
     defaults: {
-        url: "https://api.enphaseenergy.com/api/v2/systems/",
+        url: "https://api.enphaseenergy.com/api/v4/systems/",
         apiKey: "", //Enter API key
         userId: "4d7a45774e6a41320a", //Sample user ID
 	      systemId: "67", //Sample system
