@@ -89,6 +89,10 @@ Module.register("MMM-Solar",{
             var imgDiv = document.createElement("div");
             var img = document.createElement("img");
             img.src = "/modules/MMM-Solar/solar_white.png";
+	    img.style.width = "50px";
+            img.style.height = "50px";
+            img.style.display = "inline";
+
 
             var sTitle = document.createElement("p");
             sTitle.innerHTML = "Solar PV";
