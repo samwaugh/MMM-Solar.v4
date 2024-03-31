@@ -1,4 +1,4 @@
-# MMM-Solar
+# MMM-Solar.v4
 A Solar Module for MagicMirror2 designed to integrate with an Enphase Solar System, using version 4 of the API.
 
 ## Dependencies
